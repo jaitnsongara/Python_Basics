@@ -1,5 +1,5 @@
 # Python_Basics
-This is my pubilc learing in initiative | Python Basics are here 
+## Learing in Pubic | Python Basics are here 
 
 
 <!-- PROJECT LOGO -->
@@ -12,8 +12,9 @@ This is my pubilc learing in initiative | Python Basics are here
   <h3 align="center">Python Basics</h3>
 
   <p align="center">
-    The Python Basics I am trying to Educate myself Resources are Compiled here</br>
-    after basics i wanna make the this as Project oriented | learing in Public initiative 
+    The Python Basics I am trying to Educate myself, Learing Resources are Compiled here</br>
+    After basics i wanna make the this as Project oriented path </br> 
+    learing in Public initiative 
     <br />
     <a href="https://github.com/jaitnsongara/Python_Basics"><strong>Learning Path »</strong></a>
     <br />
