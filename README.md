@@ -16,7 +16,7 @@
     After basics i wanna make the this as Project oriented path </br> 
     learing in Public initiative 
     <br />
-    <a href="https://github.com/jaitnsongara/Python_Basics"><strong>Learning Path »</strong></a>
+    <a href="https://github.com/jaitnsongara/Python_Basics/blob/main/img/Python%20Roadmap.png"><strong>Learning Path »</strong></a>
     <br />
     <br />
     <a href=""></a>
