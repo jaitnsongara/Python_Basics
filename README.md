@@ -1,5 +1,5 @@
 # Python_Basics
-## Learing in Pubic | Python Basics are here 
+## Learing in Public | Python Basics are here 
 
 
 <!-- PROJECT LOGO -->
