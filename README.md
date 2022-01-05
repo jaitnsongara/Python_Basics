@@ -19,7 +19,7 @@
     <a href="https://github.com/jaitnsongara/Python_Basics/blob/main/img/Python%20Roadmap.png"><strong>Learning Path »</strong></a>
     <br />
     <br />
-    <a href=""></a>
+    <a href="https://github.com/jaitnsongara/Python_Basics/tree/main/Learn_the_Basics">Learn The Basics</a>
     .
     <a href=""></a>
     .
